@@ -1,3 +1,5 @@
+Playing around wtih type-graphql, apollo-client, and pagination in accordance with graphql spec https://relay.dev/graphql/connections.htm
+
 ### Installation and running this solution
 
 1. Clone the repo to your machine
